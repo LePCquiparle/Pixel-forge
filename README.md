@@ -68,7 +68,6 @@ See page at [https://pixelcanvas-6.preview.emergentagent.com/](https://pixelcanv
 <details>
 <summary><h3>⌨️ Keyboard Shortcuts</h3></summary>
 <ul>
-<li>Key	Action</li>
 <li>P	Pencil</li>
 <li>E	Eraser</li>
 <li>F	Fill</li>
